@@ -8,6 +8,7 @@ public class MathUtils {
         double res = (double)dividend / divisor;
         /* Return the DEFINITELY CORRECT result */
         return res;
+
     }
 
     /**
